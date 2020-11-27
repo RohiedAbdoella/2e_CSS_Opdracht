@@ -1,0 +1,78 @@
+.goldborder {
+    border: 5px double gold;
+    margin: 5px 10px;
+    padding: 20px;
+    }
+
+body {
+    color:white;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 3px;
+    padding: 10px;
+    }
+
+.border {
+            border: 5px dashed darkblue;
+            margin: 5px 10px;
+            padding: 10px;
+            }
+
+nav {
+        font-size: 20px;
+        margin: 10px;
+        padding: 10px;
+        }
+
+.navlist {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: inline;
+}
+
+.navli {
+    display: inline;
+}
+
+h1 {
+    color: lightblue;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-size: 40px;
+    margin: 30px;
+    padding: 20px;
+    }
+
+h2 {
+    color: lightblue;
+    font-family: Verdana, Geneva;
+    font-size: 25px;
+    width: 500px;
+    margin: 0 auto;  
+    padding: 5;  
+    }    
+
+ul {
+    list-style-type: circle;
+    font-size:20px;
+    margin: 5px 10px;
+    padding: 5px;
+    }
+
+.leeftijd {
+    color: lightblue;
+    list-style-type: none;
+    font-size: 14px;
+    margin-left: 30px;
+    padding: 2px;
+    }
+
+.thanos {
+    border: 5px solid silver;
+    width: 150px; 
+    margin: 20px;
+}
+
+p   {
+    font-size: 15px;
+    }
